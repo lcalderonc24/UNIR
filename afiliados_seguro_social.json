@@ -1,0 +1,1444 @@
+[
+	{
+		"Agno": 2008,
+		"Periodo": "Abril",
+		"Parametro": "Abril",
+		"Valor": 19.35626942,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2008,
+		"Periodo": "Mayo",
+		"Parametro": "Mayo",
+		"Valor": 19.40964157,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2008,
+		"Periodo": "Junio",
+		"Parametro": "Junio",
+		"Valor": 19.35895344,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2008,
+		"Periodo": "Julio",
+		"Parametro": "Julio",
+		"Valor": 19.38222256,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2008,
+		"Periodo": "Agosto",
+		"Parametro": "Agosto",
+		"Valor": 19.13755615,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2008,
+		"Periodo": "Septiembre",
+		"Parametro": "Septiembre",
+		"Valor": 19.02035947,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2008,
+		"Periodo": "Octubre",
+		"Parametro": "Octubre",
+		"Valor": 18.91847321,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2008,
+		"Periodo": "Noviembre",
+		"Parametro": "Noviembre",
+		"Valor": 18.72138665,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2008,
+		"Periodo": "Diciembre",
+		"Parametro": "Diciembre",
+		"Valor": 18.53131174,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2009,
+		"Periodo": "Enero",
+		"Parametro": "2009",
+		"Valor": 18.1817427,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2009,
+		"Periodo": "Febrero",
+		"Parametro": "Febrero",
+		"Valor": 18.1126106,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2009,
+		"Periodo": "Marzo",
+		"Parametro": "Marzo",
+		"Valor": 18.05812178,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2009,
+		"Periodo": "Abril",
+		"Parametro": "Abril",
+		"Valor": 18.03418325,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2009,
+		"Periodo": "Mayo",
+		"Parametro": "Mayo",
+		"Valor": 18.10348735,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2009,
+		"Periodo": "Junio",
+		"Parametro": "Junio",
+		"Valor": 18.09798602,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2009,
+		"Periodo": "Julio",
+		"Parametro": "Julio",
+		"Valor": 18.14355401,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2009,
+		"Periodo": "Agosto",
+		"Parametro": "Agosto",
+		"Valor": 18.00131004,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2009,
+		"Periodo": "Septiembre",
+		"Parametro": "Septiembre",
+		"Valor": 17.93509455,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2009,
+		"Periodo": "Octubre",
+		"Parametro": "Octubre",
+		"Valor": 17.90894533,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2009,
+		"Periodo": "Noviembre",
+		"Parametro": "Noviembre",
+		"Valor": 17.84766906,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2009,
+		"Periodo": "Diciembre",
+		"Parametro": "Diciembre",
+		"Valor": 17.80383894,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2010,
+		"Periodo": "Enero",
+		"Parametro": "2010",
+		"Valor": 17.54601105,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2010,
+		"Periodo": "Febrero",
+		"Parametro": "Febrero",
+		"Valor": 17.57235115,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2010,
+		"Periodo": "Marzo",
+		"Parametro": "Marzo",
+		"Valor": 17.59480839,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2010,
+		"Periodo": "Abril",
+		"Parametro": "Abril",
+		"Valor": 17.6486601,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2010,
+		"Periodo": "Mayo",
+		"Parametro": "Mayo",
+		"Valor": 17.76189738,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2010,
+		"Periodo": "Junio",
+		"Parametro": "Junio",
+		"Valor": 17.78578172,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2010,
+		"Periodo": "Julio",
+		"Parametro": "Julio",
+		"Valor": 17.84832263,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2010,
+		"Periodo": "Agosto",
+		"Parametro": "Agosto",
+		"Valor": 17.71646427,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2010,
+		"Periodo": "Septiembre",
+		"Parametro": "Septiembre",
+		"Valor": 17.67147963,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2010,
+		"Periodo": "Octubre",
+		"Parametro": "Octubre",
+		"Valor": 17.66614905,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2010,
+		"Periodo": "Noviembre",
+		"Parametro": "Noviembre",
+		"Valor": 17.61270938,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2010,
+		"Periodo": "Diciembre",
+		"Parametro": "Diciembre",
+		"Valor": 17.58498163,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2011,
+		"Periodo": "Enero",
+		"Parametro": "2011",
+		"Valor": 17.3618385,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2011,
+		"Periodo": "Febrero",
+		"Parametro": "Febrero",
+		"Valor": 17.3470943,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2011,
+		"Periodo": "Marzo",
+		"Parametro": "Marzo",
+		"Valor": 17.39275417,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2011,
+		"Periodo": "Abril",
+		"Parametro": "Abril",
+		"Valor": 17.47420074,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2011,
+		"Periodo": "Mayo",
+		"Parametro": "Mayo",
+		"Valor": 17.59219064,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2011,
+		"Periodo": "Junio",
+		"Parametro": "Junio",
+		"Valor": 17.58657865,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2011,
+		"Periodo": "Julio",
+		"Parametro": "Julio",
+		"Valor": 17.63735163,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2011,
+		"Periodo": "Agosto",
+		"Parametro": "Agosto",
+		"Valor": 17.50051737,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2011,
+		"Periodo": "Septiembre",
+		"Parametro": "Septiembre",
+		"Valor": 17.43556163,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2011,
+		"Periodo": "Octubre",
+		"Parametro": "Octubre",
+		"Valor": 17.36031255,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2011,
+		"Periodo": "Noviembre",
+		"Parametro": "Noviembre",
+		"Valor": 17.24853006,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2011,
+		"Periodo": "Diciembre",
+		"Parametro": "Diciembre",
+		"Valor": 17.2299215,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2012,
+		"Periodo": "Enero",
+		"Parametro": "2012",
+		"Valor": 16.95826714,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2012,
+		"Periodo": "Febrero",
+		"Parametro": "Febrero",
+		"Valor": 16.89711157,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2012,
+		"Periodo": "Marzo",
+		"Parametro": "Marzo",
+		"Valor": 16.90253045,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2012,
+		"Periodo": "Abril",
+		"Parametro": "Abril",
+		"Valor": 16.91907921,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2012,
+		"Periodo": "Mayo",
+		"Parametro": "Mayo",
+		"Valor": 16.99651036,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2012,
+		"Periodo": "Junio",
+		"Parametro": "Junio",
+		"Valor": 17.02784257,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2012,
+		"Periodo": "Julio",
+		"Parametro": "Julio",
+		"Valor": 17.03273845,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2012,
+		"Periodo": "Agosto",
+		"Parametro": "Agosto",
+		"Valor": 16.8959769,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2012,
+		"Periodo": "Septiembre",
+		"Parametro": "Septiembre",
+		"Valor": 16.80980315,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2012,
+		"Periodo": "Octubre",
+		"Parametro": "Octubre",
+		"Valor": 16.73672663,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2012,
+		"Periodo": "Noviembre",
+		"Parametro": "Noviembre",
+		"Valor": 16.53104814,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2012,
+		"Periodo": "Diciembre",
+		"Parametro": "Diciembre",
+		"Valor": 16.44268123,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2013,
+		"Periodo": "Enero",
+		"Parametro": "2013",
+		"Valor": 16.17943804,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2013,
+		"Periodo": "Febrero",
+		"Parametro": "Febrero",
+		"Valor": 16.1507466,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2013,
+		"Periodo": "Marzo",
+		"Parametro": "Marzo",
+		"Valor": 16.18127484,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2013,
+		"Periodo": "Abril",
+		"Parametro": "Abril",
+		"Valor": 16.23235231,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2013,
+		"Periodo": "Mayo",
+		"Parametro": "Mayo",
+		"Valor": 16.36701259,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2013,
+		"Periodo": "Junio",
+		"Parametro": "Junio",
+		"Valor": 16.3938655,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2013,
+		"Periodo": "Julio",
+		"Parametro": "Julio",
+		"Valor": 16.42675578,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2013,
+		"Periodo": "Agosto",
+		"Parametro": "Agosto",
+		"Valor": 16.32768719,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2013,
+		"Periodo": "Septiembre",
+		"Parametro": "Septiembre",
+		"Valor": 16.30544538,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2013,
+		"Periodo": "Octubre",
+		"Parametro": "Octubre",
+		"Valor": 16.36037252,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2013,
+		"Periodo": "Noviembre",
+		"Parametro": "Noviembre",
+		"Valor": 16.2935432,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2013,
+		"Periodo": "Diciembre",
+		"Parametro": "Diciembre",
+		"Valor": 16.35764005,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2014,
+		"Periodo": "Enero",
+		"Parametro": "2014",
+		"Valor": 16.17360952,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2014,
+		"Periodo": "Febrero",
+		"Parametro": "Febrero",
+		"Valor": 16.2123038,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2014,
+		"Periodo": "Marzo",
+		"Parametro": "Marzo",
+		"Valor": 16.29628823,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2014,
+		"Periodo": "Abril",
+		"Parametro": "Abril",
+		"Valor": 16.43005295,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2014,
+		"Periodo": "Mayo",
+		"Parametro": "Mayo",
+		"Valor": 16.62837323,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2014,
+		"Periodo": "Junio",
+		"Parametro": "Junio",
+		"Valor": 16.68499509,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2014,
+		"Periodo": "Julio",
+		"Parametro": "Julio",
+		"Valor": 16.74710265,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2014,
+		"Periodo": "Agosto",
+		"Parametro": "Agosto",
+		"Valor": 16.6495205,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2014,
+		"Periodo": "Septiembre",
+		"Parametro": "Septiembre",
+		"Valor": 16.66170295,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2014,
+		"Periodo": "Octubre",
+		"Parametro": "Octubre",
+		"Valor": 16.69051973,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2014,
+		"Periodo": "Noviembre",
+		"Parametro": "Noviembre",
+		"Valor": 16.6957517,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2014,
+		"Periodo": "Diciembre",
+		"Parametro": "Diciembre",
+		"Valor": 16.77521447,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2015,
+		"Periodo": "Enero",
+		"Parametro": "2015",
+		"Valor": 16.57531225,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2015,
+		"Periodo": "Febrero",
+		"Parametro": "Febrero",
+		"Valor": 16.6722216,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2015,
+		"Periodo": "Marzo",
+		"Parametro": "Marzo",
+		"Valor": 16.83280054,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2015,
+		"Periodo": "Abril",
+		"Parametro": "Abril",
+		"Valor": 17.0082959,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2015,
+		"Periodo": "Mayo",
+		"Parametro": "Mayo",
+		"Valor": 17.2213104,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2015,
+		"Periodo": "Junio",
+		"Parametro": "Junio",
+		"Valor": 17.25639545,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2015,
+		"Periodo": "Julio",
+		"Parametro": "Julio",
+		"Valor": 17.31518756,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2015,
+		"Periodo": "Agosto",
+		"Parametro": "Agosto",
+		"Valor": 17.1808989,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2015,
+		"Periodo": "Septiembre",
+		"Parametro": "Septiembre",
+		"Valor": 17.18981491,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2015,
+		"Periodo": "Octubre",
+		"Parametro": "Octubre",
+		"Valor": 17.22146652,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2015,
+		"Periodo": "Noviembre",
+		"Parametro": "Noviembre",
+		"Valor": 17.22308648,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2015,
+		"Periodo": "Diciembre",
+		"Parametro": "Diciembre",
+		"Valor": 17.3084,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2016,
+		"Periodo": "Enero",
+		"Parametro": "2016",
+		"Valor": 17.10435726,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2016,
+		"Periodo": "Febrero",
+		"Parametro": "Febrero",
+		"Valor": 17.16771209,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2016,
+		"Periodo": "Marzo",
+		"Parametro": "Marzo",
+		"Valor": 17.30579804,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2016,
+		"Periodo": "Abril",
+		"Parametro": "Abril",
+		"Valor": 17.46383566,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2016,
+		"Periodo": "Mayo",
+		"Parametro": "Mayo",
+		"Valor": 17.66183959,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2016,
+		"Periodo": "Junio",
+		"Parametro": "Junio",
+		"Valor": 17.76027113,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2016,
+		"Periodo": "Julio",
+		"Parametro": "Julio",
+		"Valor": 17.84499195,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2016,
+		"Periodo": "Agosto",
+		"Parametro": "Agosto",
+		"Valor": 17.69999531,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2016,
+		"Periodo": "Septiembre",
+		"Parametro": "Septiembre",
+		"Valor": 17.71202072,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2016,
+		"Periodo": "Octubre",
+		"Parametro": "Octubre",
+		"Valor": 17.8133559,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2016,
+		"Periodo": "Noviembre",
+		"Parametro": "Noviembre",
+		"Valor": 17.7805239,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2016,
+		"Periodo": "Diciembre",
+		"Parametro": "Diciembre",
+		"Valor": 17.8490545,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2017,
+		"Periodo": "Enero",
+		"Parametro": "2017",
+		"Valor": 17.67417452,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2017,
+		"Periodo": "Febrero",
+		"Parametro": "Febrero",
+		"Valor": 17.74825485,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2017,
+		"Periodo": "Marzo",
+		"Parametro": "Marzo",
+		"Valor": 17.91000665,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2017,
+		"Periodo": "Abril",
+		"Parametro": "Abril",
+		"Valor": 18.12222233,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2017,
+		"Periodo": "Mayo",
+		"Parametro": "Mayo",
+		"Valor": 18.34541423,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2017,
+		"Periodo": "Junio",
+		"Parametro": "Junio",
+		"Valor": 18.43310655,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2017,
+		"Periodo": "Julio",
+		"Parametro": "Julio",
+		"Valor": 18.489329,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2017,
+		"Periodo": "Agosto",
+		"Parametro": "Agosto",
+		"Valor": 18.30984386,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2017,
+		"Periodo": "Septiembre",
+		"Parametro": "Septiembre",
+		"Valor": 18.33616148,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2017,
+		"Periodo": "Octubre",
+		"Parametro": "Octubre",
+		"Valor": 18.43052905,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2017,
+		"Periodo": "Noviembre",
+		"Parametro": "Noviembre",
+		"Valor": 18.41775624,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2017,
+		"Periodo": "Diciembre",
+		"Parametro": "Diciembre",
+		"Valor": 18.46020056,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2018,
+		"Periodo": "Enero",
+		"Parametro": "2018",
+		"Valor": 18.282031,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2018,
+		"Periodo": "Febrero",
+		"Parametro": "Febrero",
+		"Valor": 18.363514,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2018,
+		"Periodo": "Marzo",
+		"Parametro": "Marzo",
+		"Valor": 18.502088,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2018,
+		"Periodo": "Abril",
+		"Parametro": "Abril",
+		"Valor": 18.678461,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2018,
+		"Periodo": "Mayo",
+		"Parametro": "Mayo",
+		"Valor": 18.915668,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2018,
+		"Periodo": "Junio",
+		"Parametro": "Junio",
+		"Valor": 19.00699,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2018,
+		"Periodo": "Julio",
+		"Parametro": "Julio",
+		"Valor": 19.04281,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2018,
+		"Periodo": "Agosto",
+		"Parametro": "Agosto",
+		"Valor": 18.839814,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2018,
+		"Periodo": "Septiembre",
+		"Parametro": "Septiembre",
+		"Valor": 18.862713,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2018,
+		"Periodo": "Octubre",
+		"Parametro": "Octubre",
+		"Valor": 18.993073,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2018,
+		"Periodo": "Noviembre",
+		"Parametro": "Noviembre",
+		"Valor": 18.945624,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2018,
+		"Periodo": "Diciembre",
+		"Parametro": "Diciembre",
+		"Valor": 19.024165,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2019,
+		"Periodo": "Enero",
+		"Parametro": "2019",
+		"Valor": 18.8193,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2019,
+		"Periodo": "Febrero",
+		"Parametro": "Febrero",
+		"Valor": 18.888472,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2019,
+		"Periodo": "Marzo",
+		"Parametro": "Marzo",
+		"Valor": 19.043576,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2019,
+		"Periodo": "Abril",
+		"Parametro": "Abril",
+		"Valor": 19.230362,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2019,
+		"Periodo": "Mayo",
+		"Parametro": "Mayo",
+		"Valor": 19.442113,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2019,
+		"Periodo": "Junio",
+		"Parametro": "Junio",
+		"Valor": 19.517697,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2019,
+		"Periodo": "Julio",
+		"Parametro": "Julio",
+		"Valor": 19.533211,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2019,
+		"Periodo": "Agosto",
+		"Parametro": "Agosto",
+		"Valor": 19.320227,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2019,
+		"Periodo": "Septiembre",
+		"Parametro": "Septiembre",
+		"Valor": 19.323452,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2019,
+		"Periodo": "Octubre",
+		"Parametro": "Octubre",
+		"Valor": 19.429993,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2019,
+		"Periodo": "Noviembre",
+		"Parametro": "Noviembre",
+		"Valor": 19.376878,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2019,
+		"Periodo": "Diciembre",
+		"Parametro": "Diciembre",
+		"Valor": 19.408538,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2020,
+		"Periodo": "Enero",
+		"Parametro": "2020",
+		"Valor": 19.164494,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2020,
+		"Periodo": "Febrero",
+		"Parametro": "Febrero",
+		"Valor": 19.250229,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2020,
+		"Periodo": "Marzo",
+		"Parametro": "Marzo",
+		"Valor": 19.00676,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2020,
+		"Periodo": "Abril",
+		"Parametro": "Abril",
+		"Valor": 18.458667,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2020,
+		"Periodo": "Mayo",
+		"Parametro": "Mayo",
+		"Valor": 18.556129,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2020,
+		"Periodo": "Junio",
+		"Parametro": "Junio",
+		"Valor": 18.62433668,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2020,
+		"Periodo": "Julio",
+		"Parametro": "Julio",
+		"Valor": 18.785554,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2020,
+		"Periodo": "Agosto",
+		"Parametro": "Agosto",
+		"Valor": 18.792376,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2020,
+		"Periodo": "Septiembre",
+		"Parametro": "Septiembre",
+		"Valor": 18.876389,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2020,
+		"Periodo": "Octubre",
+		"Parametro": "Octubre",
+		"Valor": 18.990364,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2020,
+		"Periodo": "Noviembre",
+		"Parametro": "Noviembre",
+		"Valor": 19.022002,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2020,
+		"Periodo": "Diciembre",
+		"Parametro": "Diciembre",
+		"Valor": 19.048433,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2021,
+		"Periodo": "Enero",
+		"Parametro": "2021",
+		"Valor": 18.82948,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2021,
+		"Periodo": "Febrero",
+		"Parametro": "Febrero",
+		"Valor": 18.850112,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2021,
+		"Periodo": "Marzo",
+		"Parametro": "Marzo",
+		"Valor": 18.920902,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2021,
+		"Periodo": "Abril",
+		"Parametro": "Abril",
+		"Valor": 19.0552981,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2021,
+		"Periodo": "Mayo",
+		"Parametro": "Mayo",
+		"Valor": 19.267221,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2021,
+		"Periodo": "Junio",
+		"Parametro": "Junio",
+		"Valor": 19.500277,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2021,
+		"Periodo": "Julio",
+		"Parametro": "Julio",
+		"Valor": 19.591728,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2021,
+		"Periodo": "Agosto",
+		"Parametro": "Agosto",
+		"Valor": 19.473724,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2021,
+		"Periodo": "Septiembre",
+		"Parametro": "Septiembre",
+		"Valor": 19.531111,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2021,
+		"Periodo": "Octubre",
+		"Parametro": "Octubre",
+		"Valor": 19.69059,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2021,
+		"Periodo": "Noviembre",
+		"Parametro": "Noviembre",
+		"Valor": 19.752358,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2021,
+		"Periodo": "Diciembre",
+		"Parametro": "Diciembre",
+		"Valor": 19.824911,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2022,
+		"Periodo": "Enero",
+		"Parametro": "2022",
+		"Valor": 19.627161,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2022,
+		"Periodo": "Febrero",
+		"Parametro": "Febrero",
+		"Valor": 19.694272,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2022,
+		"Periodo": "Marzo",
+		"Parametro": "Marzo",
+		"Valor": 19.834504,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2022,
+		"Periodo": "Abril",
+		"Parametro": "Abril",
+		"Valor": 20.01908,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2022,
+		"Periodo": "Mayo",
+		"Parametro": "Mayo",
+		"Valor": 20.232723,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2022,
+		"Periodo": "Junio",
+		"Parametro": "Junio",
+		"Valor": 20.34833,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2022,
+		"Periodo": "Julio",
+		"Parametro": "Julio",
+		"Valor": 20.340964,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2022,
+		"Periodo": "Agosto",
+		"Parametro": "Agosto",
+		"Valor": 20.151001,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2022,
+		"Periodo": "Septiembre",
+		"Parametro": "Septiembre",
+		"Valor": 20.180287,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2022,
+		"Periodo": "Octubre",
+		"Parametro": "Octubre",
+		"Valor": 20.283786,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2022,
+		"Periodo": "Noviembre",
+		"Parametro": "Noviembre",
+		"Valor": 20.283631,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2022,
+		"Periodo": "Diciembre",
+		"Parametro": "Diciembre",
+		"Valor": 20.296271,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2023,
+		"Periodo": "Enero",
+		"Parametro": "2023",
+		"Valor": 20.081224,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2023,
+		"Periodo": "Febrero",
+		"Parametro": "Febrero",
+		"Valor": 20.170142,
+		"Estado": "Definitivo",
+		"Notas": ""
+	},
+	{
+		"Agno": 2023,
+		"Periodo": "Marzo",
+		"Parametro": "Marzo",
+		"Valor": 20.376552,
+		"Estado": "Definitivo",
+		"Notas": ""
+	}
+]
+}
+]
